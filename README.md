@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img alt="Logo" src="https://raw.githubusercontent.com/Official-Phantom/jaydendancer.com-V3/main/images/logo.png" width="100" />
+  <img alt="Logo" src="https://raw.githubusercontent.com/Official-Phantom/jaydendancer.com-V3/main/logo.png" width="100" />
 </div>
 <h1 align="center">
   jaydendancer.com
@@ -9,4 +9,4 @@
   The third iteration of jaydendancr.com hosted with <a href="https://www.netlify.com/" target="_blank">Netlify</a>
 </p>
 
-![demo](https://raw.githubusercontent.com/Official-Phantom/jaydendancer.com-V3/main/images/demo.png)
+![demo](https://raw.githubusercontent.com/Official-Phantom/jaydendancer.com-V3/main/demo.png)
